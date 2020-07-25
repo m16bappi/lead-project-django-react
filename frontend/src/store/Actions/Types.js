@@ -1,0 +1,9 @@
+export const GET_LEADS = 'GET_LEADS';
+export const ADD_LEADS = 'ADD_LEADS';
+export const DELETE_LEADS = 'DELETE_LEADS';
+export const USER_LOADING = 'USER_LOADING';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const USER_SUCCESS = 'USER_SUCCESS';
+export const USER_REGISTER = 'USER_REGISTER';
+export const USER_LOGOUT = 'USER_LOGOUT';
