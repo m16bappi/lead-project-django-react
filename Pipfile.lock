@@ -146,13 +146,6 @@
             "index": "pypi",
             "version": "==20.0.4"
         },
-        "importlib": {
-            "hashes": [
-                "sha256:b6ee7066fea66e35f8d0acee24d98006de1a0a8a94a8ce6efe73a9a23c8d9826"
-            ],
-            "index": "pypi",
-            "version": "==1.0.4"
-        },
         "isort": {
             "hashes": [
                 "sha256:54da7e92468955c4fceacd0c86bd0ec997b0e1ee80d97f67c35a78b719dccab1",
